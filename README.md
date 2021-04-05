@@ -10,4 +10,4 @@
 
 ##### Contact
 
-<a href="lucianowribeiro@gmail.com"><img align=”left” src=”./assets/iconMail.svg"/></a>
+<a href="lucianowribeiro@gmail.com"><img align=”left” src=”./assets/1814108-32.png"/></a>
