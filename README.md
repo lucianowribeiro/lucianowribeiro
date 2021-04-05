@@ -10,4 +10,12 @@
 
 ##### Contact
 
-<a href="lucianowribeiro@gmail.com"><img align=”left” src=”./assets/1814108-32.png"/></a>
+<a href="lucianowribeiro@gamil.com"><img align=”left” src=”./assets/1814108-32.png"/></a>
+<a href="https://portifolio-lucianowribeiro.vercel.app/"><img align=”left” src=”./assets/2205216-32.png"/></a>
+<a href="https://www.linkedin.com/in/lucianowribeiro/"><img align=”left” src=”./assets/367593-32.png"/></a>
+ 
+##### Statistics
+
+[![Luciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianowribeiro&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianowribeiro&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
