@@ -9,7 +9,7 @@
 
 <h3> Contact </h3>
 
-<p align="left">
+<p width="100px" align="left">
   <a href="mailto:lucianowribeiro@gmail.com"><img witdh="32px" src="./assets/1814108-32.png"/> 
   <a href="https://portifolio-lucianowribeiro.vercel.app/"><img witdh="32px" src="./assets/2205216-32.png"/></a>
   <a href="https://www.linkedin.com/in/lucianowribeiro/"><img witdh="32px" src="./assets/367593-32.png"/></a>
