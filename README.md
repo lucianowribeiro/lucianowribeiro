@@ -15,7 +15,8 @@
 <a href="https://www.linkedin.com/in/lucianowribeiro/"><img align=”left” src=”./assets/367593-32.png"/></a>
  
 ##### Statistics
-
-[![Luciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianowribeiro&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianowribeiro&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=lucianowribeiro&show_icons=true&theme=dracula"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianowribeiro&theme=dracula&layout=compact)"/>
+</p>
  
