@@ -10,3 +10,8 @@
 - 💬 I’m currently learning HTML | CSS | JS | React | NextJs
 - 🔭 I’m currently looking for job in front-end area
 - 😄 In my free time as I'm nerd I like play computer games ,read books and mangas and watch TV ,movies,series and animes
+
+<p align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=lucianowribeiro&show_icons=true&theme=dracula"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianowribeiro&theme=dracula&layout=compact"/>
+</p>
