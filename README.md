@@ -3,7 +3,7 @@
 <a href="mailto:lucianowribeiro@gmail.com"><img align="left" witdh="32px" src="./assets/1814108-32.png"/> 
 <a href="https://portifolio-lucianowribeiro.vercel.app/"><img align="left" witdh="32px" src="./assets/2205216-32.png"/></a>
 <a href="https://www.linkedin.com/in/lucianowribeiro/"><img align="left" witdh="32px" src="./assets/367593-32.png"/></a>
-<h3> Hi, I'm Luciano 👋</h3>
+
   
 - ⚡ I’m degrred in System Analisys and Development by Fatec SCS
 - 💬 I’m currently learning HTML | CSS | JS | React | NextJs
