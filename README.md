@@ -5,6 +5,7 @@
 <a href="https://www.linkedin.com/in/lucianowribeiro/"><img align="right" witdh="32px" src="./assets/367593-32.png"/></a>
 
 <h3> Hi, I'm Luciano 👋</h3>
+
 - ⚡ I’m degrred in System Analisys and Development by Fatec SCS
 - 💬 I’m currently learning HTML | CSS | JS | React | NextJs
 - 🔭 I’m currently looking for job in front-end area
