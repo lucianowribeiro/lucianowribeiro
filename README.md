@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="./assets/capaGithub.png" height="500px"/>
 
-<!--
-**lucianowribeiro/lucianowribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi,I'm Luciano 👋
 
-Here are some ideas to get you started:
+#### About me
+- ⚡ I’m formed in System Analisys and Development by Fatec SCS
+- 💬 I’m currently learning HTML | CSS | JS | React | NextJs
+- 🔭 I’m currently looking for job in front-end area
+- 😄 In my free time as I`m nerd I like play computer games ,read books and mangas and watch TV ,movies,series and animes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Contact
+
+<a href="lucianowribeiro@gmail.com"><img align=”left” src=”./assets/iconMail.svg"/></a>
