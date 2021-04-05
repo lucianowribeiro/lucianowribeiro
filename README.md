@@ -1,7 +1,8 @@
 <img src="./assets/capaGithub.png" height="500px"/>
 
+<h3> Hi, I'm Luciano 👋</h3>
+
 <p align="left">
- <h3> Hi, I'm Luciano 👋</h3>
  <a href="mailto:lucianowribeiro@gmail.com"><img src="./assets/1814108-32.png" witdh="32px"/> 
  <a href="https://portifolio-lucianowribeiro.vercel.app/"><img witdh="32px" src="./assets/2205216-32.png"/></a>
  <a href="https://www.linkedin.com/in/lucianowribeiro/"><img witdh="32px" src="./assets/367593-32.png"/></a>
