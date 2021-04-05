@@ -9,7 +9,7 @@
 - 😄 In my free time as I'm nerd I like play computer games ,read books and mangas and watch TV ,movies,series and animes
 
 ##### Contact
-<p align="left">
+<p align="center">
  <a href="mailto:lucianowribeiro@gmail.com"><img src="./assets/1814108-32.png" witdh="32px"/></a>
  <a href="https://portifolio-lucianowribeiro.vercel.app/"><img witdh="32px" src="./assets/2205216-32.png"/></a>
  <a href="https://www.linkedin.com/in/lucianowribeiro/"><img witdh="32px" src="./assets/367593-32.png"/></a>
