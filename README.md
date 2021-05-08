@@ -7,8 +7,8 @@
 <h3> Hi, I'm Luciano 👋</h3>
 
 - ⚡ I’m degrred in System Analisys and Development by Fatec SCS
-- 💬 I’m currently learning HTML | CSS | JS | React | NextJs
-- 🔭 I’m currently looking for job in front-end area
+- 💬 I’m currently learning React | NextJs | Typescript | StoryBook and tests
+- 🔭 I’m currently working as Jr Systems Analyst at @Visto-Tecnologia
 - 😄 In my free time as I'm nerd I like play computer games ,read books and mangas and watch TV ,movies,series and animes
 
 <p align="center">
