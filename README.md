@@ -7,9 +7,9 @@
 <h3> Hi, I'm Luciano 👋</h3>
 
 - ⚡ I’m degrred in System Analisys and Development by Fatec SCS
-- 💬 I’m currently learning React | NextJs | Typescript | StoryBook and tests
-- 🔭 I’m currently working as Jr Systems Analyst at @Visto-Tecnologia
-- 😄 In my free time as I'm nerd I like play computer games ,read books and mangas and watch TV ,movies,series and animes
+-  🔭 I’m currently working as Jr Developer at @Visto-Tecnologia
+- 💬 I have 3 years experience with React | MaterialUI | JavaScript | Redux | Typescript
+- 😄 In my free time  I like play computer games ,read books and mangas and watch TV ,movies,series and animes
 
 <p align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=lucianowribeiro&show_icons=true&theme=dracula"/>
