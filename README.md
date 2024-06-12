@@ -7,8 +7,9 @@
 <h3> Hi, I'm Luciano 👋</h3>
 
 - ⚡ I’m degrred in System Analisys and Development by Fatec SCS
--  🔭 I’m currently searching new as Jr Developer at @Visto-Tecnologia
-- 💬 I have 3 years experience with React | MaterialUI | JavaScript | Redux | Typescript
+-  🔭 I’m currently searching new opportunities ans challenges to frontend developing  
+- 💬 I had 3 years experience with Jr Developer at @Visto-Tecnologia
+- My stack : React | MaterialUI | JavaScript | Redux | Typescript
 - 😄 In my free time  I like gout with my friends ,read books and watch movies,and youtube
 
 <p align="center">
