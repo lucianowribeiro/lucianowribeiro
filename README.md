@@ -10,7 +10,7 @@
 -  🔭 I’m currently searching new opportunities ans challenges to frontend developing  
 - 💬 I had 3 years experience with Jr Developer at @Visto-Tecnologia
 - My stack : React | MaterialUI | JavaScript | Redux | Typescript
-- 😄 In my free time  I like gout with my friends ,read books and watch movies,and youtube
+- 😄 In my free time  I like go out with my friends ,read books and watch movies,and youtube
 
 <p align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=lucianowribeiro&show_icons=true&theme=dracula"/>
