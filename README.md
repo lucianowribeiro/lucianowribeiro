@@ -1,4 +1,4 @@
-<img align="center" src="./assets/capa.png" height="396px"/>
+<img align="center" src="./assets/capa.png"/>
 
 <a href="mailto:lucianowribeiro@gmail.com"><img align="right" witdh="32px" src="./assets/1814108-32.png"/> 
 <a href="https://luciano-dev.vercel.app/"><img align="right" witdh="32px" src="./assets/2205216-32.png"/></a>
