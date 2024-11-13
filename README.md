@@ -3,13 +3,18 @@
 **`Full Stack Developer`**
 
    <p align="left">
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lucianowribeiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lucianowribeiro?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/lucianowribeirot?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lucianowribeiro?color=green&labelColor=darkgreen&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/lucianowribeirot?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lucianowribeiro?color=ffde21&style=for-the-badge&labelColor=yellow&logo=star"/></a>
+       <a href="mailto:lucianowribeiro@gmail.com">
+         <img alt="email" title="Email" src="https://custom-icon-badges.demolab.com/badge/-mail-red?labelColor=darkred&style=for-the-badge&logoColor=white&logo=mail"/></a>
+      <a href="https://luciano-dev.vercel.app/">
+         <img alt="email" title="Email" src="https://custom-icon-badges.demolab.com/badge/-linkedin-blue?style=for-the-badge&logoColor=white&logo=in"/></a>
+      <a href="https://www.linkedin.com/in/lucianowribeiro">
+         <img alt="email" title="Email" src="https://custom-icon-badges.demolab.com/badge/-web-black?style=for-the-badge&logoColor=white&logo=web"/></a>
    </p>
 
----
 
 ### 💻 Languages and Tools
 
