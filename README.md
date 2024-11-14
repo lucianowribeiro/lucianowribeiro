@@ -1,7 +1,9 @@
 # 👨‍💻 Luciano W Ribeiro
 
 **`Full Stack Developer`**
-
+<p>
+   Sou um desenvolvedor de software com mais de 3 anos de experiência, especializado em tecnologias modernas como React.js, TypeScript, Redux e Material UI. Com uma forte base em frontend, recentemente ampliei minhas competências para o backend(APIs RESTful), atuando com Java (Spring) e Node.js.
+</p>
    <p align="left">
       <a href="https://github.com/lucianowribeiro?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lucianowribeiro?color=green&labelColor=darkgreen&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
